@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 2px;
+}
+header{
+ display: flex;
+ justify-content: center;
+ font-family: sans-serif;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    height: 500px auto;
+    width: 300 auto;
+    text-align: center;
+    margin-top: 4%;
+    font-family: sans-serif;
+    border-color: black;
+    border-style: solid;
+}
+
+.box{
+    margin: 15px;   
+    
+}
+
+.box1{
+    margin: 15px;   
+}
+
+.box2{
+    margin: 15px;   
+}
+
+.box3{
+    margin: 15px;
+}
+
+.box3 ul li {
+    list-style-type: none;
+} 
+
+p {
+    white-space: pre-line;
+}
+
+body{
+  background-color: #7EC0EE;
+}
