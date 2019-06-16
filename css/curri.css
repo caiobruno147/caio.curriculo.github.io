@@ -1,14 +1,12 @@
-body{
-    display: center;
-    width: auto;
-}
+
 #paper{
-    width: 595px auto;
+    display:flex;
+    width: 595px;
     height: 842px;
     border: 1px solid darkcyan;
     margin: auto;
     position: relative;
-   
+
 }
 #profilepic{
     width: 150px ;
@@ -72,10 +70,4 @@ img{
     width: 20px;
     height: 20px;
     float: left;
-}
-#container{
-    display:inline-block;
-}
-#estrut{
-    display: flex;
 }
